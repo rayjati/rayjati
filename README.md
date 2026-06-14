@@ -6,9 +6,9 @@
 
 # Halo semuanya! Saya Ray Jati Kautsar 👋
 
-### Frontend Developer & Backend Developer
+### Frontend Developer
 
-"Menjembatani fungsionalitas backend yang solid dengan desain frontend yang interaktif dan responsif."
+"Menjembatani desain frontend yang interaktif dan responsif."
 
 ---
 
@@ -26,9 +26,9 @@
 
 ---
 
-## 🛠️ Keahlian & Teknologi
+## 🛠️ Keahlian &amp; Teknologi
 
-### 🌐 Frontend & UI/UX
+### 🌐 Frontend &amp; UI/UX
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### 🗄️ Backend & Database
+### 🗄️ Backend &amp; Database
 
 <p align="center">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -80,7 +80,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rayjati&show_icons=true&theme=tokyonight&count_private=true" alt="Ray's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?rayjati&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayjati&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
