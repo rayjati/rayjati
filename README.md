@@ -79,6 +79,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
+  <!-- Pastikan ada parameter &count_private=true di bawah ini -->
   <img src="https://github-readme-stats.vercel.app/api?username=rayjati&show_icons=true&theme=tokyonight&count_private=true" alt="Ray's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayjati&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
