@@ -19,6 +19,7 @@
 - 💼 Saat ini fokus mengembangkan aplikasi web modern dan dinamis.
 - 🎨 Memiliki ketertarikan kuat dalam menggabungkan fungsionalitas kode dengan estetika visual (UI/UX).
 - 🌱 Selalu terbuka untuk mempelajari teknologi baru dan berkolaborasi dalam proyek menarik.
+- ☕ Didukung oleh kopi dan baris kode yang rapi.
 
 <br>
 
