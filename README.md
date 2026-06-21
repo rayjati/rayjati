@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner1.png" alt="Ray Jati Kautsar Banner" width="100%">
+  <img src="banner2.png" alt="Ray Jati Kautsar Banner" width="100%">
 </p>
 
 <div align="center">
@@ -46,6 +46,13 @@
   <img src="https://img.shields.io/badge/mysql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
+### 🎨 Design &amp; Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+</p>
+
 ---
 
 ## 📂 Proyek Utama
@@ -79,7 +86,6 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <!-- Pastikan ada parameter &count_private=true di bawah ini -->
   <img src="https://github-readme-stats.vercel.app/api?username=rayjati&show_icons=true&theme=tokyonight&count_private=true" alt="Ray's GitHub Stats" height="180px" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayjati&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
@@ -88,6 +94,7 @@
 
 📱 **Mari Terhubung!**
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ray-jati-kautsar-224a9032a?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/rayjati_)
 
 </div>
