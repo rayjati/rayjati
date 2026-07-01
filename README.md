@@ -87,8 +87,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rayjati&show_icons=true&theme=tokyonight&count_private=true" alt="Ray's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayjati&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  <!-- Menggunakan server alternatif github-readme-stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rayjati&show_icons=true&theme=tokyonight&count_private=true" alt="Ray's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rayjati&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
 </p>
 
 ---
